@@ -29,4 +29,5 @@ public class BasePage {
     public Boolean isDisplayed(By locator){
         return find(locator).isDisplayed();
     }
+    /* new comment*/
 }
